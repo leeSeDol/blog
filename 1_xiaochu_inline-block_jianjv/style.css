@@ -1,0 +1,17 @@
+.search{
+	word-spacing:-5px;
+}
+.space{
+	margin-top:15px;
+	word-spacing:-6px;  /*重点是该行代码与下面a的word-spacing*/
+}
+.space a{
+	width:50px;
+	height:30px;
+	background-color: #08b;
+	color:#fff;
+	font-size:13px;
+	padding:0.3em 0.6em;
+	text-decoration:none;
+	word-spacing:0;
+}
